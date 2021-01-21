@@ -2,7 +2,6 @@
 
 This project is built to be used with iFrames that are hosted directly on qidigo. That way, user information is ported between the two apps.
 
-[[_TOC_]]
 
 # Group listing
 
