@@ -16,7 +16,7 @@ This component is used to display, under a list format, all the groups for a giv
 
 ## Accepted parameters
 
-| Parameters      | Description                                  | Possible values                            | Required? | Default |
+| Parameters      | Description                                  | Possible values/format                     | Required? | Default |
 | --------------- | -------------------------------------------- | ------------------------------------------ |:---------:|:-------:|
 | activityId      | Filter the groups by activity                | integer                                    | x         |         |
 | language        | Set the language                             | [fr\|en]                                   |           | fr      |
@@ -48,7 +48,7 @@ This component allows the user to remove items from his cart, and redirect to Qi
 
 ## Accepted parameters
 
-| Parameters     | Description                                                           | Option                                     | Required? | Default |
+| Parameters     | Description                                                           | Possible values/format                     | Required? | Default |
 | -------------- | --------------------------------------------------------------------- | ------------------------------------------ |:---------:| ------- |
 | language       | Set the language                                                      | [fr\|en]                                   |           | fr      |
 | organizationId | Filter cart items to show only the ones belonging to the organization | integer                                    | x         |         |
@@ -75,7 +75,7 @@ This component displays the number of items in your cart, the timer and links to
 
 ## Accepted parameters
 
-| Parameters      | Description                                                           | Option  | Required? | Default |
+| Parameters      | Description                                                           | Possible values/format  | Required? | Default |
 | --------------- | --------------------------------------------------------------------- | ------- |:---------:|:-------:|
 | organizationId  | Filter cart items to show only the ones belonging to the organization | integer | x         |         |
 | shoppingCartUrl | Set the action on click                                               | link    |           | #       |
