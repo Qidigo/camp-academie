@@ -22,6 +22,7 @@ This component is used to display, under a list format, all the groups for a giv
 | language        | Set the language                             | [fr\|en]                                   |           | fr      |
 | primaryColor    | Change the primary color                     | hexadecimal value(without #) or color name |           | F40B17  |
 | shoppingCartUrl | Action when the client clicks on "View cart" | link                                       |           | #       |
+| gtag            | Google Analytics tracker                     | GTM-XXXXXXX                                |           |         |
 
 ## Integration
 
@@ -53,6 +54,7 @@ This component allows the user to remove items from his cart, and redirect to Qi
 | language       | Set the language                                                      | [fr\|en]                                   |           | fr      |
 | organizationId | Filter cart items to show only the ones belonging to the organization | integer                                    | x         |         |
 | primaryColor   | Change the primary color                                              | hexadecimal value(without #) or color name |           | F40B17  |
+| gtag           | Google Analytics tracker                                              | GTM-XXXXXXX                                |           |         |
 
 ## Integration
 
